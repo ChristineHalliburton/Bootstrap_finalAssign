@@ -1,0 +1,39 @@
+ @import url('https://fonts.googleapis.com/css?family=Bitter|Montserrat');
+/* You must use a DIFFERENT FONT THAT THIS ONE as your webfont */
+
+/*************************************************
+            DEFAULTS
+*************************************************/
+
+/*************************************************
+            HEADER
+*************************************************/
+header{
+
+	background-image: url("../img/heading.jpg");
+	text-align: center;
+	padding:4rem 4rem;
+    color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+/*************************************************
+            MAIN CONTENT
+*************************************************/
+
+
+/*************************************************
+            FOOTER
+*************************************************/
+
+/*************************************************
+            MEDIA QUERIES for layout
+*************************************************/
+
+
+    
